@@ -1,0 +1,42 @@
+Articulos/
+Codigo/
+Diapositivas/
+
+# Jupyter notebooks
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Archivos de salida típicos
+*.log
+*.pot
+*.mo
+*.pyc
+__pycache__/
+
+# Entornos virtuales
+.env/
+.venv/
+venv/
+ENV/
+
+# Variables de entorno (si usas archivos)
+.env.*
+*.env
+
+# Cachés / datos no versionables
+.ipynb_cache/
+.cache/
+
+# Dataset / salidas locales (ajusta si aplica)
+data/
+datasets/
+outputs/
+output/
+results/
+reports/
+
+# (Opcional) si exportas desde notebook a PDF/HTML/otros
+*.html
+*.pdf
+*.csv
+*.xlsx

@@ -1,0 +1,15 @@
+[project]
+name = "vision-computadora-i-ceia"
+version = "0.1.0"
+description = "Visión por Computadora I - CEIA"
+requires-python = ">=3.10, <=3.12"
+dependencies = [
+    "numpy",
+    "opencv-python",
+    "matplotlib",
+    "PyQt6",
+    "jupyter",
+]
+
+[tool.setuptools]
+py-modules = []
